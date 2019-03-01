@@ -2,10 +2,18 @@
 
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 2em;
+  margin: 0;
 }
 
+.fun-smiley-thing { 
+  position: absolute; 
+}
 
+.container { 
+   margin: auto; 
+   position: relative; 
+   max-width: 1000px;
+}
 
 h1 {
   font-style: italic;

@@ -7,6 +7,8 @@
 
 (function emojiCursor() {
   
+  console.log("happening")
+  
   var possibleEmoji = ["😀", "😂", "😆", "😊"]
   var width = window.innerWidth;
   var height = window.innerHeight;
